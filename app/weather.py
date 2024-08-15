@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-API_KEY = '524f6e593d3def171e93835101352afa'
+API_KEY = 'API_KEY'
 BASE_URL_DAY_SUMMARY = 'https://api.openweathermap.org/data/3.0/onecall/day_summary'
 
 
